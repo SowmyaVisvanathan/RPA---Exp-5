@@ -22,7 +22,11 @@ UiPath Studio-community edition
 - Use the Write CSV activity.
 - Set the Input property to extractedData.
 - Set the FilePath property.
-  
+
+### Table used:
+
+![image](https://github.com/user-attachments/assets/f596c297-384c-4a66-b73a-d14c917dbec5)
+
 ### Main.xaml:
 
 ![image](https://github.com/user-attachments/assets/8b10ac58-d037-4100-adb8-53820a8c6f85)
