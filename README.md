@@ -21,8 +21,8 @@ UiPath Studio-community edition
 
 - Use the Write CSV activity.
 - Set the Input property to extractedData.
-- Set the FilePath property to C:\Users\sowmy\OneDrive\Desktop\as.csv.
-- 
+- Set the FilePath property.
+  
 ### Main.xaml:
 
 ![image](https://github.com/user-attachments/assets/8b10ac58-d037-4100-adb8-53820a8c6f85)
